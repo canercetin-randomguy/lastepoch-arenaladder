@@ -1,0 +1,68 @@
+======= Primalist Top 100 =======
+===============================
+LEADERBOARD FIRST PLACE
+===============================
+===============================
+Char name >  shouwang
+Char level >  106
+Char class >  Beastmaster
+Char's maximum arena wave >  1611
+Char's total amount of deaths >  177
+Char's first ability >  Summon Wolf
+Char's second ability >  Spriggan Form
+Char's third ability >  Summon Thorn Totem
+Char's fourth ability >  Swarmblade Form
+Char's fifth ability >  Serpent Strike
+===============================
+===============================
+SKILL SLOTS
+===============================
+===============================
+Skill 1
+Maximum skill put into first slot: Summon Wolf with players of: 14
+Skill 2
+Maximum skill put into second slot: Summon Frenzy Totem with players of: 12
+Skill 3
+Maximum skill put into third slot: Fury Leap with players of: 28
+Skill 4
+Maximum skill put into fourth slot: Spriggan Form with players of: 17
+Skill 5
+Maximum skill put into fifth slot: Werebear Form with players of: 14
+===============================
+===============================
+HOW MANY UNIQUE PLAYERS USED EACH SKILL
+===============================
+===============================
+Total number of times each skill was used:
+Summon Frenzy Totem : 2
+震地战吼<br>Warcry : 1
+Tornado : 2
+Eterra's Blessing : 2
+Earthquake : 1
+攻击<br>Attack : 1
+Werebear Form : 2
+Upheaval : 2
+Avalanche : 3
+Ice Thorns : 1
+Spriggan Form : 2
+Summon Spriggan : 1
+Summon Raptor : 2
+Swarmblade Form : 3
+Entangling Roots : 1
+Warcry : 2
+Summon Storm Crows : 1
+Tempest Strike : 1
+Summon Wolf : 1
+Summon Bear : 1
+Summon Storm Totem : 3
+Summon Thorn Totem : 1
+Summon Scorpion : 1
+Swipe : 1
+Fury Leap : 2
+===============================
+===============================
+MAXIMUM / MINIMUM UNIQUE SKILLS USED
+===============================
+===============================
+Maximum number of unique skills used: Avalanche/Swarmblade Form/Summon Storm Totem with players of: 3
+Minimum number of unique skills used: Swipe with players of: 1
