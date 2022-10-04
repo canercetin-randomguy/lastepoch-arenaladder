@@ -458,7 +458,7 @@ func CreateLeaderboardReport(apiURL string, fileName string, leaderboardName str
 }
 
 func main() {
-	err := CreateLeaderboardReport("https://leapi.lastepoch.com/api/leader-board?code=beta085softcoreprimalistarenawave", "arenaprimalist.txt", "Primalist Top 100")
+	err := CreateLeaderboardReport("https://leapi.lastepoch.com/api/leader-board?code=beta085softcoreallclassarenawave", "leaderboardtop100.txt", "Leaderboard Class Independent Top 100")
 	if err != nil {
 		return
 	}

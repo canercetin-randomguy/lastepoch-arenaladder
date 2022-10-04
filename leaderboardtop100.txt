@@ -1,0 +1,135 @@
+======= Leaderboard Class Independent Top 100 =======
+===============================
+LEADERBOARD FIRST PLACE
+===============================
+===============================
+Char name >  Virus
+Char level >  100
+Char class >  Sorcerer
+Char's maximum arena wave >  9911
+Char's total amount of deaths >  0
+Char's first ability >  Meteor
+Char's second ability >  Flame Ward
+Char's third ability >  Focus
+Char's fourth ability >  Teleport
+Char's fifth ability >  Elemental Nova
+===============================
+===============================
+SKILL SLOTS
+===============================
+===============================
+Skill 1
+Maximum skill put into first slot: Anomaly&Volatile Reversal with players of: 6
+Skill 2
+Maximum skill put into second slot: Sigils Of Hope with players of: 8
+Skill 3
+Maximum skill put into third slot: Sigils Of Hope with players of: 13
+Skill 4
+Maximum skill put into fourth slot: Anomaly with players of: 8
+Skill 5
+Maximum skill put into fifth slot: Holy Aura with players of: 5
+===============================
+===============================
+HOW MANY UNIQUE PLAYERS USED EACH SKILL
+===============================
+===============================
+Total number of times each skill was used:
+Lunge : 2
+Summon Bone Golem : 3
+Spriggan Form : 1
+Infernal Shade : 1
+Enchant Weapon : 3
+Elemental Nova : 2
+Mana Strike : 1
+Werebear Form : 2
+Javelin : 3
+Ice Barrage : 2
+Summon Volatile Zombie : 2
+Serpent Strike : 2
+Void Cleave : 2
+Hammer Throw : 3
+Rebuke : 1
+Smoke Bomb : 2
+Flame Ward : 2
+Anomaly : 4
+Shift : 2
+Swipe : 1
+Vengeance : 3
+Smite : 3
+Sigils Of Hope : 4
+Shield Throw : 2
+Shurikens : 3
+Harvest : 1
+Devouring Orb : 3
+Lethal Mirage : 1
+Fury Leap : 3
+Decoy : 1
+Holy Aura : 2
+Arcane Ascendance : 1
+Detonating Arrow : 1
+Summon Scorpion : 1
+Lightning Blast : 4
+Shatter Strike : 1
+Ice Thorns : 3
+Focus : 1
+Multistrike : 3
+Bone Curse : 4
+Summon Wolf : 1
+Meteor : 2
+Wandering Spirits : 2
+Marrow Shards : 1
+Summon Thorn Totem : 1
+Warpath : 2
+Multishot : 2
+Teleport : 3
+Volatile Reversal : 1
+Fireball : 1
+Reaper Form : 2
+Swarmblade Form : 1
+Summon Storm Crows : 1
+Judgement : 4
+Transplant : 2
+Aura Of Decay : 1
+Abyssal Echoes : 1
+Firebrand : 1
+Soul Feast : 1
+Hungering Souls : 2
+Flurry : 1
+Synchronized Strike : 3
+Black Hole : 2
+Rive : 2
+Forge Strike : 1
+Shield Rush : 1
+Spirit Plague : 3
+Entangling Roots : 1
+震地战吼<br>Warcry : 2
+Summon Spriggan : 1
+Manifest Armor : 1
+Cinder Strike : 2
+Assemble Abomination : 2
+Flame Reave : 3
+Dread Shade : 2
+Summon Wraith : 4
+Warcry : 2
+Shadow Cascade : 3
+Static : 3
+Glacier : 1
+Surge : 2
+Disintegrate : 2
+Dark Quiver : 2
+Erasing Strike : 1
+Puncture : 3
+Acid Flask : 2
+Umbral Blades : 2
+Summon Skeleton : 5
+Eterra's Blessing : 1
+Static Orb : 1
+Drain Life : 1
+Hail of Arrows : 1
+===============================
+===============================
+MAXIMUM / MINIMUM UNIQUE SKILLS USED
+===============================
+===============================
+Maximum number of unique skills used: Summon Skeleton with players of: 5
+Minimum number of unique skills used: Hail of Arrows with players of: 1
